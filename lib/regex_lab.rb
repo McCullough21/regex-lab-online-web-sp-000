@@ -25,6 +25,7 @@ def valid_phone_number?(phone)
  if phone.match(/[0-9]{10})
    true
  else false
+ end
 end
 
 #From Valerie Moore to Everyone: (02:31 PM)
